@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+        <title>RICA MILKTEA SHOP</title>
+    </head>
+    <body>
+        <header style="color:black;text-align: center">
+            <h1> <img src="c:\WD1-LQ1\Images.png"
+                width="10%"></h1>
+        </header>
+
+        <h1 style="background-color: blue">
+            <a href="#home" style="color: white">Home</a>
+            <a href="#Shop Information" style="color:white">Shop Information</a>
+            <a href="#Shop Gallery" style="color:white">Shop Gallery</a>
+            <a href="#footer" style="color:white">Footer</a>
+        </h1>
+
+        <h1 id="Shop Information">Shop Information:</h1>
+        <h2?>
+            <ul>
+                <li>Shop Name:RICA MILKTEA SHOP</li>
+                <li>Shop Address:Purok Binayugan, Lintic Banayoyo, Ilocos Sur</li>
+                <li>Shop Number:09694920754</li>
+                <li>Shop Email Address:inigorica5@gmail.com</li>
+                <li>Office Hours: 8am-8pm</li>
+            </ul>
+        </h2>
+
+        <h1 id="Shop Gallery">Shop Gallery</h1>
+
+        <table>
+            <th style="padding:10px; width: 200px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+
+            <tr style="text-align: center;">
+                <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Chocolate Milk Tea<br>
+                Description:rich and creamy chocolate milk tea<br>
+                price:35<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td><tr style="text-align: center;">
+               
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                <price:30><br>
+                <button>Buy Now</button></td>
+           </tr>
+        </table>
+        
+           <table>
+            <th style="padding:50px; width: 200px;"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+
+            <tr style="text-align: center;">
+                <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td><tr style="text-align: center;">
+               
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+        </tr>
+    </table>
+
+<table>
+            <th style="padding:50px; width:  200px"><img src=Sc:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+
+            <tr style="text-align: center;">
+                <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                 price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:Cookies and Cream<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+            </tr>
+        </table>
+
+
+        <h1 id="footer"; style="background-color: blue; color:white; text-align: center;">
+            <p>DEVELOPED BY:</p>
+            <p>STUDENT NAME: INIGO,RICA</P>
+            <p>YEAR & SECTION:BSCS 2C</p>
+        </h1>
+
+    </body>
+</html>
