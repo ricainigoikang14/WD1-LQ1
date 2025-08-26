@@ -33,37 +33,66 @@
         <table>
             <th style="padding:10px; width: 200px"><img src=c:\WD1-LQ1\Images.png> </th>
             <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png></th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png></th>
 
             <tr style="text-align: center;">
-                <td>Name:Cookies and Cream<br>
+                <td>Name:COOKIES AND CREAM<br>
                 Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
                 price:30<br>
                 <button>Buy Now</button></td>
 
-            <td>Name:Chocolate Milk Tea<br>
-                Description:rich and creamy chocolate milk tea<br>
+            <td>Name:COOKIES AND CREAM<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
                 price:35<br>
                 <button>Buy Now</button></td>
 
-            <td>Name:Cookies and Cream<br>
+            <td>Name:COOKIES AND CREAM<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavo<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:COOKIES AND CREAM<br>
                 Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
                 price:30<br>
-                <button>Buy Now</button></td><tr style="text-align: center;">
-               
-            <td>Name:Cookies and Cream<br>
+                <button>Buy Now</button></td>
+           </tr>
+        </table>
+
+        <table>
+            <th style="padding:10px; width: 200px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png></th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png></th>
+
+            <tr style="text-align: center;">
+                <td>Name:COOKIES AND CREAM<br>
                 Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
-                <price:30><br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:COOKIES AND CREAM<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:35<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:COOKIES AND CREAM<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavo<br>
+                price:30<br>
+                <button>Buy Now</button></td>
+
+            <td>Name:COOKIES AND CREAM<br>
+                Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
+                price:30<br>
                 <button>Buy Now</button></td>
            </tr>
         </table>
         
            <table>
-            <th style="padding:50px; width: 200px;"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px; width: 200px;"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
 
             <tr style="text-align: center;">
                 <td>Name:Cookies and Cream<br>
@@ -74,8 +103,8 @@
             <td>Name:Cookies and Cream<br>
                 Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
                 price:30<br>
-                <button>Buy Now</button></td><tr style="text-align: center;">
-               
+                <button>Buy Now</button></td>
+
             <td>Name:Cookies and Cream<br>
                 Description:classic milk tea with crushed cookies and creamy chocolate flavor<br>
                 price:30<br>
@@ -89,10 +118,10 @@
     </table>
 
 <table>
-            <th style="padding:50px; width:  200px"><img src=Sc:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
-            <th style="padding:50px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px; width:  200px"><img src=Sc:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
+            <th style="padding:10px"><img src=c:\WD1-LQ1\Images.png> </th>
 
             <tr style="text-align: center;">
                 <td>Name:Cookies and Cream<br>
